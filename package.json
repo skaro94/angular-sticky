@@ -1,9 +1,9 @@
 {
-  "author": "Harm van der Werf <harmvdwerf@gmail.com> {https://github.com/harm-less}",
-  "name": "angular-sticky-plugin",
+  "author": "Harm van der Werf <harmvdwerf@gmail.com> {https://github.com/skaro94}",
+  "name": "angular-sticky-plugin-index",
   "version": "0.3.0",
   "description": "Pure javascript AngularJS directive to make elements stick when scrolling",
-  "homepage": "https://github.com/harm-less/angular-sticky",
+  "homepage": "https://github.com/skaro94/angular-sticky",
   "main": "index.js",
   "scripts": {
     "test": "grunt test"
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/harm-less/angular-sticky.git"
+    "url": "https://github.com/skaro94/angular-sticky.git"
   },
   "dependencies": {},
   "devDependencies": {
